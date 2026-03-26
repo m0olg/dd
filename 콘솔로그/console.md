@@ -13,7 +13,7 @@ print = (name, age)
 **구조, 타입 확인** / 인스턴스의 자세한 설명까지 출력
 (인스턴스 = 클래스나 구조체로부터 만들어진 객체의 값)
 
-```
+```swift
 var name = "ddong"
 dump(name)
 
@@ -25,7 +25,9 @@ dump(name)
 ---
 
 ### ++ debugprint()
-→ 디버깅용 print보다 자세히 출력 가능 
+→ 디버깅용 print보다 자세히 출력 가능
+
+---
 # 03 print와 dump의 차이 (예시)
 
 코드 ⬇️
