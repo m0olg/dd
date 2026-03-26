@@ -23,6 +23,7 @@ totalPrice
 ### Q. 언제 쓰일까 ###
 ### A. Swift에선 거의 기본값 (변수, 함수, 프로퍼티, 매개변수 등) ###
 ``` swift
+
 let userName = "Lee" // let으로 상수 지정 userName으로 변수 이름, "Lee"로 문자열 값 입력
 
 func getUserInfo() {
